@@ -1,0 +1,5 @@
+connect '/C=33'
+setbaud 115200
+setdtr 0
+xmodemsend param2 1
+closett
