@@ -12,6 +12,7 @@ In this repo you will find several codes for playing with RaspberryPi's GPIOs an
 >_ <a href="https://github.com/memoriasIT/Raspberry-Pi-Barebones/tree/master/GPIO">GPIO</a> - Several blobs interfacing buzzers, LEDS and internal comparators.
 <br>
 >_ <a href="https://github.com/memoriasIT/Raspberry-Pi-Barebones/tree/master/interrupts">Interrupts</a> - Working with RaspberryPi different modes and Interrupts.
+<br>
 >_ <a href="https://github.com/memoriasIT/Raspberry-Pi-Barebones/tree/master/TipTapDash">TipTapDash</a> - A game working with an expansion board for the raspberry pi.  <a href="">YT video</a>
 </p>
 
